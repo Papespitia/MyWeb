@@ -1,2 +1,2 @@
 # MyWeb
-Repo del curso de prework en windows
+Repo del curso de prework en windows en Platzi
